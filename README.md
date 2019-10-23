@@ -1,4 +1,4 @@
 # Lioness
 Portfolio
 
-* [Luxo](lioness/luxo/)
+* [Luxo](lionesss.github.io/luxo/)
